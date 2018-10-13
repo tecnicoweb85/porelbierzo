@@ -7,7 +7,7 @@ define( function ( require ) {
 		wp_ws_url : 'https://www.porelbierzo.com/wp-appkit-api/por-el-bierzo',
 		wp_url : 'https://www.porelbierzo.com',
 		theme : 'q-android',
-		version : '',
+		version : '1',
 		app_type : 'phonegap-build',
 		app_title : 'Por El Bierzo',
 		app_platform : 'android',

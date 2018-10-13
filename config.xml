@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = ""
-        versionCode = ""
-        version     = "" >
+        id          = "porelbierzo"
+        versionCode = "1"
+        version     = "1" >
 
 	<name>Por El Bierzo</name>
 
-	<description>Otr forma de visitar la comarca</description>
+	<description>Otra forma de visitar la comarca</description>
 
 	<author href="http://www.ivanlr.com" email="tecnicoweb85@gmail.com">Iv&#225;n L&#243;pez Freelance</author>
 
